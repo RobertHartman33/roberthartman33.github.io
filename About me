@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Bobby's about me page</title>
+ </head>
+ 
+ <body>
+<h1> About Me</h1>
+   <img src="csc106_banner.jpg">
+</body>
+<p>My name is Bobby Hartman and I am a Mechanical engineering major at URI. I like playing sports and hanging with friends.
+</p>
+<table>
+<tr>
+<img src= "https://lh3.googleusercontent.com/tIKEI5XitJ1ByZLyyBjfpw4t8LBcJHI6z9A2HSG5-ScaVtBLWORa-hcV-qIgBE4js8256tErrOdtfhCB3m4yblrpyPy33A2ICKobT3gvuy4Wc_BzknhvgNtT7hlIPvbGKmsuUAWN">
+</tr>
+
+<tr>
+<img src="https://lh6.googleusercontent.com/C0X_bIUmyBXs09F3GEkdwlZNZ34pp5R6g_Vr26HX44njjh38UqF6kzbPjiuunFz4wjx9BtuNBTmM_ttKs3_gaBPVhRqHm7Nk9Bq6JmvyVBJVGbR_FY3qPgFgEnYxgNvCpW3XaAq_"> 
+</tr>
+<tr> <img src="https://lh5.googleusercontent.com/iGDFayYu809GHeAL2XdQg9hKUjCk-sOAUFHaR9x-30Ckcrx_Tf7vYRB6d5Rb-8pWgZU1RHA2_xB87ZGeHemUvV-jeRGUuu0m5KQ6EVHxKwKrFXh7dj94UyGYIpQfoP5NWWjuFMyY">
+</tr>
+
+</table>
+
+
+
+
+</html>
